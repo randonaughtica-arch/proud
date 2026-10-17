@@ -177,7 +177,7 @@ def main():
 
     write_json(DATA / "recipe" / "blank_flag.json", {
         "type": "minecraft:crafting_shaped",
-        "category": "decorations",
+        "category": "misc",
         "pattern": ["SWW", "SWW", "S  "],
         "key": {"S": "minecraft:stick", "W": "#minecraft:wool"},
         "result": {"id": rid("blank_flag"), "count": 1},
