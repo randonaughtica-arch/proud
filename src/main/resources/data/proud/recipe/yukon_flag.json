@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "#proud:flags",
+  "result": {
+    "id": "proud:yukon_flag",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "#proud:flags",
+  "result": {
+    "id": "proud:saint_kitts_and_nevis_flag",
+    "count": 1
+  }
+}

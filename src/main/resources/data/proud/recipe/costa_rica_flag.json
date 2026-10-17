@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "#proud:flags",
+  "result": {
+    "id": "proud:costa_rica_flag",
+    "count": 1
+  }
+}

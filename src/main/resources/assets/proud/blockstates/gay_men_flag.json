@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "proud:block/gay_men_flag"
+    },
+    "facing=west": {
+      "model": "proud:block/gay_men_flag",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "proud:block/gay_men_flag",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "proud:block/gay_men_flag",
+      "y": 270
+    }
+  }
+}

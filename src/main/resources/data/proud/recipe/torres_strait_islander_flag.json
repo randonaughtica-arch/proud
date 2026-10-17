@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "#proud:flags",
+  "result": {
+    "id": "proud:torres_strait_islander_flag",
+    "count": 1
+  }
+}

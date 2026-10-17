@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "proud:block/pakistan_flag"
+    },
+    "facing=west": {
+      "model": "proud:block/pakistan_flag",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "proud:block/pakistan_flag",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "proud:block/pakistan_flag",
+      "y": 270
+    }
+  }
+}

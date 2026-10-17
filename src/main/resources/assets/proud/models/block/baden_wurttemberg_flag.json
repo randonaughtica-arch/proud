@@ -1,0 +1,6 @@
+{
+  "parent": "proud:block/flag_template",
+  "textures": {
+    "flag": "proud:block/baden_wurttemberg_flag"
+  }
+}

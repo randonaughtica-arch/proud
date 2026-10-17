@@ -1,0 +1,23 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": [
+          "gui",
+          "ground",
+          "fixed"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "proud:item/berlin_flag"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "proud:block/berlin_flag"
+    }
+  }
+}

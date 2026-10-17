@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "proud:block/west_virginia_flag"
+    },
+    "facing=west": {
+      "model": "proud:block/west_virginia_flag",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "proud:block/west_virginia_flag",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "proud:block/west_virginia_flag",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "proud:block/flag_template",
+  "textures": {
+    "flag": "proud:block/upper_silesia_flag"
+  }
+}

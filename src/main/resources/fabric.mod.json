@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "proud",
+  "version": "${version}",
+  "name": "Proud",
+  "description": "Hundreds of flags to fly, hold and wear: pride flags, Indigenous peoples' flags such as the Aboriginal and Torres Strait Islander flags, every UN member state, and states, provinces and constituent countries like Ohio, Quebec and Wales.",
+  "authors": ["randonaughtica-arch"],
+  "contact": {
+    "sources": "https://github.com/randonaughtica-arch/proud"
+  },
+  "license": "MIT",
+  "icon": "assets/proud/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.proud.Proud"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

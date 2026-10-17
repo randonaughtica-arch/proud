@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "proud:block/saarland_flag"
+    },
+    "facing=west": {
+      "model": "proud:block/saarland_flag",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "proud:block/saarland_flag",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "proud:block/saarland_flag",
+      "y": 270
+    }
+  }
+}

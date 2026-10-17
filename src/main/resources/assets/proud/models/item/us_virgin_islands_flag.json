@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "proud:item/us_virgin_islands_flag"
+  }
+}

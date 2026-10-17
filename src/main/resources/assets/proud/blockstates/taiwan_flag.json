@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "proud:block/taiwan_flag"
+    },
+    "facing=west": {
+      "model": "proud:block/taiwan_flag",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "proud:block/taiwan_flag",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "proud:block/taiwan_flag",
+      "y": 270
+    }
+  }
+}

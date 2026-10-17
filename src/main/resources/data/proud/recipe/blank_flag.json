@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "decorations",
+  "pattern": [
+    "SWW",
+    "SWW",
+    "S  "
+  ],
+  "key": {
+    "S": "minecraft:stick",
+    "W": "#minecraft:wool"
+  },
+  "result": {
+    "id": "proud:blank_flag",
+    "count": 1
+  }
+}

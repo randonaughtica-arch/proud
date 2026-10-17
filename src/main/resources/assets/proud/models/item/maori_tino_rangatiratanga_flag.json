@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "proud:item/maori_tino_rangatiratanga_flag"
+  }
+}

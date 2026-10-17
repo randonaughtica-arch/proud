@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "#proud:flags",
+  "result": {
+    "id": "proud:maori_tino_rangatiratanga_flag",
+    "count": 1
+  }
+}

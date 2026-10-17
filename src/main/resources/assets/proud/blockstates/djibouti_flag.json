@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "proud:block/djibouti_flag"
+    },
+    "facing=west": {
+      "model": "proud:block/djibouti_flag",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "proud:block/djibouti_flag",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "proud:block/djibouti_flag",
+      "y": 270
+    }
+  }
+}

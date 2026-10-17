@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "proud:block/north_rhine_westphalia_flag"
+    },
+    "facing=west": {
+      "model": "proud:block/north_rhine_westphalia_flag",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "proud:block/north_rhine_westphalia_flag",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "proud:block/north_rhine_westphalia_flag",
+      "y": 270
+    }
+  }
+}

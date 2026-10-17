@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "proud:block/upper_silesia_flag"
+    },
+    "facing=west": {
+      "model": "proud:block/upper_silesia_flag",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "proud:block/upper_silesia_flag",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "proud:block/upper_silesia_flag",
+      "y": 270
+    }
+  }
+}

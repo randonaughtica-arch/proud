@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "proud:block/northern_mariana_islands_flag"
+    },
+    "facing=west": {
+      "model": "proud:block/northern_mariana_islands_flag",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "proud:block/northern_mariana_islands_flag",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "proud:block/northern_mariana_islands_flag",
+      "y": 270
+    }
+  }
+}

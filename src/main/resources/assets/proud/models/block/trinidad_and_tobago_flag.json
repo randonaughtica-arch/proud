@@ -1,0 +1,6 @@
+{
+  "parent": "proud:block/flag_template",
+  "textures": {
+    "flag": "proud:block/trinidad_and_tobago_flag"
+  }
+}
